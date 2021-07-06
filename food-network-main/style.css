@@ -1,3 +1,23 @@
+
 span{
     color: orange;
+}
+body{
+    margin-left:4% ;
+    font-family: 'Oswald', sans-serif;
+}
+.first-section{
+    display: flex;
+}
+.button{
+    background-color: orange;
+    text-decoration: none;
+    color: white;
+    border-radius: 10%;
+    background-image: linear-gradient(orange, tomato);
+    font-weight: 700;
+    padding: 10px 40px;
+}
+.fitst-image{
+
 }
