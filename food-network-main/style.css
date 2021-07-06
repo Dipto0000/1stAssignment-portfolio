@@ -6,8 +6,21 @@ body{
     margin-left:4% ;
     font-family: 'Oswald', sans-serif;
 }
+h1{
+    font-size: 50px;
+    color: gray;
+}
+p{
+    color: gray;
+}
 .first-section{
     display: flex;
+}
+.width-set{
+    width: 50%;
+}
+.width-set img{
+    width: 70%;
 }
 .button{
     background-color: orange;
@@ -17,7 +30,4 @@ body{
     background-image: linear-gradient(orange, tomato);
     font-weight: 700;
     padding: 10px 40px;
-}
-.fitst-image{
-
 }
