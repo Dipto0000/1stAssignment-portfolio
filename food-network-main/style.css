@@ -13,8 +13,9 @@ h1{
 p{
     color: gray;
 }
-.first-section{
+.container{
     display: flex;
+    margin-bottom: 150px;
 }
 .width-set{
     width: 50%;
@@ -30,4 +31,7 @@ p{
     background-image: linear-gradient(orange, tomato);
     font-weight: 700;
     padding: 10px 40px;
+}
+.second-section{
+    background-image: url(images/shapes/7.png);
 }
