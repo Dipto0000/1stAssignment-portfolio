@@ -13,7 +13,7 @@ h1{
 p{
     color: gray;
 }
-.container{
+.container {
     display: flex;
     margin-bottom: 150px;
 }
@@ -27,11 +27,51 @@ p{
     background-color: orange;
     text-decoration: none;
     color: white;
-    border-radius: 10%;
+    border-radius: 20px;
     background-image: linear-gradient(orange, tomato);
     font-weight: 700;
     padding: 10px 40px;
 }
 .second-section{
     background-image: url(images/shapes/7.png);
+}
+.recipie{
+    text-align: center;
+    margin-bottom: 5%;
+}
+.card img{
+    width: 80%;
+    padding-top: 10%;
+    border-radius: 5%;
+}
+.card-body{
+    background-color: white;
+}
+.wrap{
+    width: 1000px;
+    margin: auto;
+    margin-top: 50px;
+}
+.card{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.6);
+    width: 300px;
+    background: #fff;
+    text-align: center;
+    font-size: 16px;
+    float: left;
+    margin: 10px;
+    border-radius: 5%;
+}
+.last-part{
+    background-color: black;
+    text-align: center;
+    margin-top: 10%;
+    
+}
+#Food{
+    color: orange;
+    margin-right: 10px;
+}
+#Network{
+    color: purple;
 }
